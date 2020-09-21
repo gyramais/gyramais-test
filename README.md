@@ -22,6 +22,7 @@ Sua API deve ser acessível/testável independente do front-end.
 Requisitos:
 - Front-end: React (preferencialmente) ou VueJS
 - Back-end: Node.js
+- API - Apollo GraphQL
 
 Como entregar?
 Publique o código-fonte no Github ou BitBucket. Nos envie o link de acesso por e-mail para tecnologia@gyramais.com, com seu nome completo, telefone para contato e LinkedIn.
