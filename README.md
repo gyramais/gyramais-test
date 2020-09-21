@@ -23,6 +23,7 @@ Requisitos:
 - Front-end: React com hooks
 - Back-end: Node.js
 - API: Apollo GraphQL
+- BD: MongoDB
 
 Como entregar?
 Publique o código-fonte no Github ou BitBucket. Nos envie o link de acesso por e-mail para tecnologia@gyramais.com, com seu nome completo, telefone para contato e LinkedIn.
